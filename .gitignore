@@ -2,6 +2,9 @@
 
 # dependencies
 node_modules/
+# APK PACKAGE
+*.apk
+
 
 # Expo
 .expo/
